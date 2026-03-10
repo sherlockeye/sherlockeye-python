@@ -68,8 +68,6 @@ print("Results:", results)
 
 ### Installation
 
-Once published on PyPI:
-
 ```bash
 pip install sherlockeye
 ```
