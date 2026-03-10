@@ -25,7 +25,7 @@ sync_result = client.create_sync_search(
     {
         "type": "email",
         "value": "someone@example.com",
-        "timeoutSeconds": 30,
+        "timeoutSeconds": 60,
     }
 )
 print(sync_result["data"]["status"], sync_result["data"]["results"])
