@@ -27,7 +27,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://docs.sherlockeye.io"
+Homepage = "https://sherlockeye.io"
 Documentation = "https://docs.sherlockeye.io"
 Source = "https://github.com/sherlockeye/sherlockeye-python"
 Issues = "https://github.com/sherlockeye/sherlockeye-python/issues"
