@@ -7,8 +7,6 @@ This library lets you integrate Sherlockeye’s multi-source reverse search capa
 ### Quick start
 
 ```python
-import time
-
 from sherlockeye import SherlockeyeClient
 
 client = SherlockeyeClient(api_key="YOUR_API_KEY")
@@ -29,6 +27,8 @@ print(sync_result["data"]["status"], sync_result["data"]["results"])
 ```
 
 ```python
+import time
+
 # Run an asynchronous search (fire-and-forget style, then poll)
 search = client.create_search(
     {
