@@ -4,6 +4,11 @@ Sherlockeye is a reverse search engine for investigations, fraud prevention, thr
 
 This library lets you integrate Sherlockeye’s multi-source reverse search capabilities into your own Python applications — run OSINT searches (email, phone, username, domain, IP and more).
 
+### Get your API KEY
+https://app.sherlockeye.io/api
+
+Full API documentation: https://docs.sherlockeye.io
+
 ### Quick start
 
 ```python
